@@ -1,0 +1,11 @@
+{
+    "name": "alex12k/test",
+    "description": "test packge",
+    "authors": [
+        {
+            "name": "Alexander",
+            "email": "i-gps@yandex.ru"
+        }
+    ],
+    "require": {}
+}
