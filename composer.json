@@ -8,5 +8,5 @@
             "email": "i-gps@yandex.ru"
         }
     ],
-    "require": {}No composer.json in current directory, do you want to use the one at /home/i/igpsya3i/cod1.ru/public_html?
+    "require": {}
 }
