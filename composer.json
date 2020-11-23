@@ -2,6 +2,7 @@
     "name": "alex12k/test",
     "description": "test packge",
     "minimum-stability": "stable",
+    "license": "proprietary",	
 	"authors": [
         {
             "name": "Alexander",
